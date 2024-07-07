@@ -18,6 +18,5 @@ This is a food recipe app that allows users to look up recipes and share their o
 
 ## Usage
 
-- Users can search for recipes
 - Users can add their own recipes
 - Users can view recipes
